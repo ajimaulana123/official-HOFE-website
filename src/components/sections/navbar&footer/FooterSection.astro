@@ -7,7 +7,8 @@ import frStrings from "@utils/fr/navigation.ts";
 import Icon from "@components/ui/icons/Icon.astro";
 import BrandLogo from "@components/BrandLogo.astro";
 import { SITE } from "@data/constants";
-
+import HofeLogo from "@/images/icon.png";
+import { Image } from "astro:assets";
 // Select the correct translation based on the page's lang prop:
 const strings = Astro.currentLocale === "fr" ? frStrings : enStrings;
 
@@ -25,7 +26,7 @@ const crafted: string = Astro.currentLocale === "fr" ? "Fabriqué par" : "Crafte
     <div class="grid grid-cols-2 gap-6 md:grid-cols-4 lg:grid-cols-5">
       <div class="col-span-full lg:col-span-1">
         <!-- Brand Logo -->
-        <BrandLogo class="h-auto w-32" />
+        <Image src={HofeLogo} alt="Deskripsi Gambar" width={150} height={50} />
       </div>
       <!-- An array of links for Product and Company sections -->
       {

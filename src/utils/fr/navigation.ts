@@ -1,28 +1,25 @@
-
 const navBarLinks = [
-  { name: "Accueil", url: "/fr" },
-  { name: "Produits", url: "/fr/products" },
-  { name: "Services", url: "/fr/services" },
-  { name: "Blog", url: "/fr/blog" },
-  { name: "Contact", url: "/fr/contact" },
+  { name: "Beranda", url: "/" },
+  { name: "Blog", url: "/blog" },
+  { name: "Kontak", url: "/kontak" },
 ];
 
 const footerLinks = [
   {
-    section: "Écosystème",
+    section: "Ekosistem",
     links: [
-      { name: "Documentation", url: "/fr/welcome-to-docs/" },
-      { name: "Outils et Équipements", url: "/fr/products" },
-      { name: "Services de Construction", url: "/fr/services" },
+      { name: "Dokumentasi", url: "/dokumentasi" },
+      { name: "Alat dan Peralatan", url: "/produk" },
+      { name: "Layanan Konstruksi", url: "/layanan" },
     ],
   },
   {
-    section: "Société",
+    section: "Perusahaan",
     links: [
-      { name: "À propos de nous", url: "#" },
-      { name: "Blog", url: "/fr/blog" },
-      { name: "Carrières", url: "#" },
-      { name: "Clients", url: "#" },
+      { name: "Tentang Kami", url: "/tentang-kami" },
+      { name: "Blog", url: "/blog" },
+      { name: "Karir", url: "/karir" },
+      { name: "Klien", url: "/klien" },
     ],
   },
 ];
@@ -30,7 +27,7 @@ const footerLinks = [
 const socialLinks = {
   facebook: "#",
   x: "#",
-  github: "https://github.com/mearashadowfax/ScrewFast",
+  github: "https://github.com/hofe/hoax-detection-app",
   google: "#",
   slack: "#",
 };
