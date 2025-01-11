@@ -1,7 +1,3 @@
-Berikut adalah contoh file README yang dapat digunakan untuk website resmi **HOFE**:
-
----
-
 # HOFE - Hoax Detection and Sustainable Technology
 
 **HOFE** is a cutting-edge platform committed to fighting misinformation while promoting sustainability. Our mission is to provide users with accurate, real-time hoax detection and to integrate environmentally responsible practices into technology development.
