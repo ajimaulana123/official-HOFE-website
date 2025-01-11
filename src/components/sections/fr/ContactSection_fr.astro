@@ -1,5 +1,5 @@
 ---
-// Import the necessary dependencies.
+// Impor dependensi yang diperlukan.
 import AuthBtn from "@components/ui/buttons/AuthBtn.astro";
 import ContactIconBlock from "@components/ui/blocks/ContactIconBlock.astro";
 import TextInput from "@components/ui/forms/input/TextInput.astro";
@@ -8,16 +8,15 @@ import PhoneInput from "@components/ui/forms/input/PhoneInput.astro";
 import TextAreaInput from "@components/ui/forms/input/TextAreaInput.astro";
 import Icon from "@components/ui/icons/Icon.astro";
 
-// Define the variables that will be used in this component
-const title: string = "Contactez-nous";
+// Mendefinisikan variabel yang akan digunakan di komponen ini
+const title: string = "Hubungi Kami";
 const subTitle: string =
-  "Vous avez des questions ou souhaitez discuter d'un projet ? Contactez-nous et laissons-nous élaborer la solution parfaite avec nos outils et services.";
-const formTitle: string = "Remplissez le formulaire ci-dessous";
-const formSubTitle: string =
-  "Nous vous répondrons dans un délai de 1 à 2 jours ouvrables.";
+  "Punya pertanyaan atau ingin berdiskusi tentang proyek? Hubungi HOFE dan mari ciptakan solusi terbaik bersama menggunakan alat dan layanan kami.";
+const formTitle: string = "Isi formulir di bawah ini";
+const formSubTitle: string = "Kami akan menghubungi Anda dalam 1-2 hari kerja.";
 ---
 
-<!-- Contact Us -->
+<!-- Hubungi Kami -->
 <section class="mx-auto max-w-[85rem] px-4 py-10 sm:px-6 lg:px-8 lg:py-14">
   <div class="mx-auto max-w-2xl lg:max-w-5xl">
     <div class="text-center">
@@ -38,33 +37,33 @@ const formSubTitle: string =
         >
           {formTitle}
         </h2>
-        <!-- Form for user input with various input fields.-->
-        <!-- Each field utilizes a different input component for the specific type of input (text, email, phone, and textarea)-->
+        <!-- Formulir untuk input pengguna dengan berbagai jenis input -->
+        <!-- Setiap bidang menggunakan komponen input yang berbeda untuk jenis data spesifik (teks, email, telepon, dan area teks)-->
         <form>
           <div class="grid gap-4">
             <div class="grid grid-cols-1 gap-4 sm:grid-cols-2">
               <TextInput
                 id="hs-firstname-contacts"
-                label="Prénom"
+                label="Nama Depan"
                 name="hs-firstname-contacts"
               />
               <TextInput
                 id="hs-lastname-contacts"
-                label="Nom"
-                name="hs-firstname-contacts"
+                label="Nama Belakang"
+                name="hs-lastname-contacts"
               />
             </div>
             <EmailContactInput id="hs-email-contacts" />
             <PhoneInput id="hs-phone-number" />
             <TextAreaInput
               id="hs-about-contacts"
-              label="Détails"
+              label="Detail"
               name="hs-about-contacts"
             />
           </div>
 
           <div class="mt-4 grid">
-            <AuthBtn title="Envoyer un message" />
+            <AuthBtn title="Kirim Pesan" />
           </div>
 
           <div class="mt-3 text-center">
@@ -75,13 +74,13 @@ const formSubTitle: string =
         </form>
       </div>
 
-      <!--ContactIconBlocks are used to display different methods of contacting, including visiting office, email, browsing knowledgebase, and FAQ.-->
+      <!-- ContactIconBlock digunakan untuk menampilkan berbagai metode kontak, termasuk kunjungan kantor, email, knowledgebase, dan FAQ -->
       <div class="divide-y divide-neutral-300 dark:divide-neutral-700">
         <ContactIconBlock
-          heading="Base de connaissances"
-          content="Parcourez tous nos articles de base de connaissances."
+          heading="Pusat Pengetahuan"
+          content="Jelajahi semua artikel di pusat pengetahuan kami."
           isLinkVisible={true}
-          linkTitle="Visiter les guides et tutoriels"
+          linkTitle="Kunjungi panduan & tutorial"
           linkURL="#"
           isArrowVisible={true}
           ><Icon name="question" />
@@ -89,27 +88,27 @@ const formSubTitle: string =
 
         <ContactIconBlock
           heading="FAQ"
-          content="Explorez notre FAQ pour des réponses rapides et claires aux questions courantes."
+          content="Cari jawaban cepat dan jelas untuk pertanyaan umum."
           isLinkVisible={true}
-          linkTitle="Visiter la FAQ"
+          linkTitle="Kunjungi FAQ"
           linkURL="#"
           isArrowVisible={true}
           ><Icon name="chatBubble" />
         </ContactIconBlock>
 
         <ContactIconBlock
-          heading="Visitez notre bureau"
-          content="ScrewFast UK"
+          heading="Kunjungi kantor kami"
+          content="ID HOFE"
           isAddressVisible={true}
-          addressContent="72 Union Terrace, E10 4PE London"
+          addressContent="Indonesia"
           ><Icon name="mapPin" />
         </ContactIconBlock>
 
         <ContactIconBlock
-          heading="Contactez-nous par e-mail"
-          content="Préférez-vous le texte écrit ? Envoyez-nous un e-mail à"
+          heading="Hubungi kami melalui email"
+          content="Lebih suka dengan tulisan? Kirim email ke"
           isLinkVisible={true}
-          linkTitle="support@screwfast.uk"
+          linkTitle="support@HOFE.id"
           linkURL="#"
           ><Icon name="envelopeOpen" />
         </ContactIconBlock>

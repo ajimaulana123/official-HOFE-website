@@ -10,8 +10,6 @@ const footerLinks = [
     section: "Ecosystem",
     links: [
       { name: "Documentation", url: "#" },
-      { name: "Tools & Equipment", url: "#" },
-      { name: "Construction Services", url: "#" },
     ],
   },
   {
@@ -27,7 +25,7 @@ const footerLinks = [
 const socialLinks = {
   facebook: "https://www.facebook.com/",
   x: "https://twitter.com/",
-  github: "https://github.com/mearashadowfax/ScrewFast",
+  github: "https://github.com/ajimaulana123/official-HOFE-website",
   google: "https://www.google.com/",
   slack: "https://slack.com/",
 };

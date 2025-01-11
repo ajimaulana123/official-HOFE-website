@@ -1,29 +1,29 @@
 {
-  "subTitle": "Posez-nous toutes vos questions sur notre marque et nos produits, et obtenez des réponses factuelles.",
+  "subTitle": "Tanyakan apa saja tentang Aplikasi kami.",
   "faqs": [
     {
-      "question": "Quels types d'outils sont inclus dans le Kit de Démarrage?",
-      "answer": "Le Kit de Démarrage comprend des outils à main et électriques essentiels pour différents projets de bricolage, notamment des marteaux, des perceuses, des tournevis et une variété de fixations. C'est une sélection soigneusement élaborée pour aider les débutants et les bricoleurs expérimentés à aborder la plupart des tâches d'amélioration de l'habitat."
+      "question": "Apa itu HOFE?",
+      "answer": "HOFE adalah aplikasi pendeteksi hoaks berbasis analisis teks dan URL yang dirancang untuk membantu pengguna memverifikasi informasi secara cepat dan akurat menggunakan model Machine Learning berbasis Recurrent Neural Networks (RNN)."
     },
     {
-      "question": "Puis-je passer du Kit de Démarrage à la Boîte à Outils Professionnelle?",
-      "answer": "Absolument ! Vous pouvez passer à la Boîte à Outils Professionnelle à tout moment pour accéder à une gamme plus large d'outils de haute qualité, bénéficier d'un support client prioritaire et recevoir un contenu exclusif. Contactez notre équipe de support pour une transition sans problème."
+      "question": "Bagaimana cara kerja HOFE dalam mendeteksi hoaks?",
+      "answer": "HOFE menganalisis konten teks yang diunggah pengguna menggunakan model Machine Learning berbasis RNN untuk menemukan pola dan hubungan antar kata yang mengindikasikan kemungkinan hoaks. Sistem ini didukung oleh basis data referensi yang terus diperbarui untuk meningkatkan akurasi deteksi."
     },
     {
-      "question": "Quels sont les rabais disponibles pour les commandes en gros via le plan Boîte à Outils Professionnelle?",
-      "answer": "Les membres de la Boîte à Outils Professionnelle ont droit à des rabais exclusifs sur les commandes en gros, dont le pourcentage peut varier en fonction du volume de la commande. Contactez-nous pour discuter de vos besoins, et nous vous fournirons une structure de rabais personnalisée."
+      "question": "Siapa yang terlibat dalam pengembangan HOFE?",
+      "answer": "Pengguna dapat mengunduh aplikasi HOFE dari situs resmi. Setelah terinstal, pengguna dapat mengunggah teks atau URL untuk memeriksa apakah informasi tersebut mengandung hoaks."
     },
     {
-      "question": "À quoi puis-je m'attendre en termes de support client?",
-      "answer": "Tous nos clients bénéficient d'un support par e-mail dédié. Avec le Kit de Démarrage, vous recevrez notre support standard, tandis que le plan Boîte à Outils Professionnelle vous mettra à niveau vers un support prioritaire, ce qui signifie des temps de réponse plus rapides et une assistance spécialisée."
+      "question": "Di platform mana saja HOFE bisa diakses?",
+      "answer": "Saat ini, HOFE tersedia untuk perangkat Android. Pengguna dapat mengunduh file APK dari situs resmi HOFE."
     },
     {
-      "question": "À quelle fréquence sont mises à jour les ressources en ligne et les tutoriels?",
-      "answer": "Nous mettons régulièrement à jour nos ressources en ligne et nos tutoriels pour refléter les dernières tendances en matière de bricolage et de construction, ainsi que les introductions de nouveaux outils et techniques. Notre matériel vise à être complet et convivial pour tous les niveaux de compétence."
+      "question": "Apakah HOFE gratis digunakan?",
+      "answer": "Aplikasi HOFE dapat diunduh secara gratis. Namun, fitur premium mungkin tersedia melalui model berlangganan untuk akses tambahan."
     },
     {
-      "question": "ScrewFast propose-t-il des services pour les grands projets de construction?",
-      "answer": "Oui, nos Solutions Entreprise sont conçues pour les grandes entreprises ayant besoin de services complets. Nous fournissons des consultations, de la planification et de l'approvisionnement en outils et matériaux de haute qualité, ainsi que des solutions de personnel pour des besoins de construction importants. Contactez-nous pour un devis personnalisé."
+      "question": "Apakah HOFE tersedia di negara lain?",
+      "answer": "Saat ini, HOFE tersedia di Indonesia, tetapi aplikasi ini dapat dikembangkan dan disesuaikan untuk pasar internasional dengan melatih model menggunakan dataset lokal dari berbagai negara."
     }
   ]
 }

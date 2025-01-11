@@ -1,19 +1,20 @@
 ---
-title: "Simplify Procurement and Stay Within Budget with ScrewFast"
-description: "Affordable, durable tools for efficient construction projects"
-author: "Olga Zabegina"
-role: "Strategic Marketing Manager"
+title: "Simplify Hoax Detection and Stay Informed with HOFE"
+description: "Reliable, accurate hoax detection for a safer online experience"
+author: "Misa"
+role: "Product Manager"
 authorImage: "@/images/blog/anna.avif"
 authorImageAlt: "Avatar Description"
 pubDate: 2024-02-18
 cardImage: "@/images/blog/post-3.avif"
-cardImageAlt: "Side view worker wearing gloves"
+cardImageAlt: "Side view person using a smartphone to verify information"
 readTime: 3
-tags: ["procurement", "affordable", "efficiency" ]
+tags: ["hoax detection", "accuracy", "reliability"]
 contents: [
-        "Managing a construction project can be overwhelming, especially when it comes to procurement. That's why ScrewFast is committed to simplifying the process and keeping your projects within budget.",
-        "With our line of affordable tools and equipment, you can find everything you need without breaking the bank. Our user-centric design ensures that our products are easy to use, saving you time and frustration on the job site.",
-        "But affordability doesn't mean sacrificing quality. ScrewFast products are built to last, providing reliable performance and durability when you need it most. And with our comprehensive documentation and tutorials, you can integrate our products seamlessly into your workflow, maximizing efficiency and productivity.",
-        "Whether you're a DIY enthusiast or a seasoned contractor, ScrewFast has the solutions you need to succeed. Experience the difference for yourself and see why ScrewFast is the trusted choice for hardware and construction needs."
+        "Navigating the digital world can be overwhelming, especially when it comes to verifying information. That's why HOFE is committed to simplifying the process and ensuring you stay informed and protected.",
+        "With our user-friendly hoax detection app, you can quickly check whether the content you come across is legitimate or not. Our advanced machine learning algorithms analyze text and URLs to provide you with accurate results without the need for technical knowledge.",
+        "But simplicity doesn’t mean compromising on accuracy. HOFE’s state-of-the-art model, based on Recurrent Neural Networks (RNN), is designed to detect even the most sophisticated hoaxes, ensuring you have reliable information at your fingertips.",
+        "Whether you're using our mobile app or web platform, HOFE makes hoax detection seamless, providing you with the peace of mind to navigate the internet confidently. Our extensive database is continuously updated, ensuring you always have access to the latest hoax prevention tools.",
+        "Whether you’re an individual user or part of an organization, HOFE offers customized solutions to meet your needs, empowering you to combat misinformation effectively and stay ahead of online threats."
 ]
 ---

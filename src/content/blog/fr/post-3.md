@@ -1,19 +1,20 @@
 ---
-title: "Simplifiez l'Approvisionnement et Restez dans les Limites du Budget avec ScrewFast"
-description: "Outils abordables et durables pour des projets de construction efficaces"
-author: "Olga Zabegina"
-role: "Directrice Marketing Stratégique"
+title: "Sederhanakan Deteksi Hoaks dan Tetap Terinformasi dengan HOFE"
+description: "Deteksi hoaks yang andal dan akurat untuk pengalaman online yang lebih aman"
+author: "Misa"
+role: "Manajer Produk"
 authorImage: "@/images/blog/anna.avif"
-authorImageAlt: "Avatar Description"
+authorImageAlt: "Deskripsi Avatar"
 pubDate: 2024-02-18
 cardImage: "@/images/blog/post-3.avif"
-cardImageAlt: "Side view worker wearing gloves"
+cardImageAlt: "Tampilan samping seseorang menggunakan smartphone untuk memverifikasi informasi"
 readTime: 3
-tags: ["approvisionnement", "abordable", "efficacité"]
+tags: ["deteksi hoaks", "akurasi", "keandalan"]
 contents: [
-    "Gérer un projet de construction peut être écrasant, surtout en ce qui concerne l'approvisionnement. C'est pourquoi ScrewFast s'engage à simplifier le processus et à maintenir vos projets dans les limites du budget.",
-    "Avec notre gamme d'outils et d'équipements abordables, vous pouvez trouver tout ce dont vous avez besoin sans vous ruiner. Notre design centré sur l'utilisateur garantit que nos produits sont faciles à utiliser, vous faisant gagner du temps et de la frustration sur le chantier.",
-    "Mais abordable ne signifie pas sacrifier la qualité. Les produits ScrewFast sont conçus pour durer, offrant des performances fiables et une durabilité lorsque vous en avez le plus besoin. Et avec notre documentation complète et nos tutoriels, vous pouvez intégrer nos produits de manière transparente dans votre flux de travail, maximisant ainsi l'efficacité et la productivité.",
-    "Que vous soyez un passionné du bricolage ou un entrepreneur expérimenté, ScrewFast a les solutions dont vous avez besoin pour réussir. Découvrez la différence par vous-même et voyez pourquoi ScrewFast est le choix de confiance pour les besoins en matériel et en construction."
-  ]
+        "Menavigasi dunia digital bisa jadi membingungkan, terutama saat harus memverifikasi informasi. Itulah sebabnya HOFE berkomitmen untuk menyederhanakan proses ini agar Anda tetap terinformasi dan terlindungi.",
+        "Dengan aplikasi deteksi hoaks yang ramah pengguna, Anda dapat dengan cepat memeriksa apakah konten yang Anda temui valid atau tidak. Algoritma pembelajaran mesin canggih kami menganalisis teks dan URL untuk memberikan hasil yang akurat tanpa memerlukan pengetahuan teknis.",
+        "Namun, kesederhanaan tidak berarti mengorbankan akurasi. Model canggih HOFE, yang berbasis pada Recurrent Neural Networks (RNN), dirancang untuk mendeteksi hoaks yang paling kompleks sekalipun, memastikan Anda mendapatkan informasi yang dapat dipercaya di ujung jari Anda.",
+        "Baik menggunakan aplikasi seluler maupun platform web kami, HOFE menjadikan deteksi hoaks tanpa hambatan, memberikan ketenangan pikiran untuk menjelajahi internet dengan percaya diri. Basis data kami yang luas terus diperbarui, memastikan Anda selalu memiliki akses ke alat pencegahan hoaks terbaru.",
+        "Baik Anda pengguna individu maupun bagian dari organisasi, HOFE menawarkan solusi yang dapat disesuaikan untuk memenuhi kebutuhan Anda, memberdayakan Anda dalam melawan misinformasi secara efektif dan tetap selangkah lebih maju dari ancaman online."
+]
 ---
